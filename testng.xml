@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/nija0225/Documents/Automation Testing_ATB/IntelliJ IDEA Community Edition 2024.3.4.1/API_Framework">
+        <classes>
+            <class name="com.testing.framework.sample.TestIntegrationSample">
+            </class>
+        </classes>
+    </test>
+</suite>
